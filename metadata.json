@@ -1,0 +1,5 @@
+{
+  "name": "Python Game Dev Terminal",
+  "description": "A simulated Python terminal that uses an AI to generate code and concepts for a board game. Describe game mechanics in Python, and the AI will help you build them out.",
+  "requestFramePermissions": []
+}
